@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: SafeArea(
           child: Center(
-            child: Text("hello",
+            child: Text("hello world",
                 style: GoogleFonts.roboto(
                   fontSize: 36,
                 )),
